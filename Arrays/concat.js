@@ -3,3 +3,4 @@ let intArr2 = [43, 56, 23, 6, 43, 2];
 //added new comment
 const newIntArr = [...intArr1, 2324, ...intArr2]; // spread Operator
 console.log(newIntArr);
+//this is first test branch comment
